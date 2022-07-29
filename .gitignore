@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# switch
+build
+.*/
+*.elf
+*.nso
+*.pfs0
+*.nacp
+*.nro
+*.nsp
+*.npdm
+*.bz2
+*.dksh
+*~
